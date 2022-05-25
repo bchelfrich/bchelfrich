@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Brandon Helfrich</h1>
 <h3 align="left">Cybersecurity & Computer Networking Student</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f7/c8/6e/f7c86e14ddab0b4117994bd5f5385a98.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b088305c3044e555af03d72e0ebb087600f4b539&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchelfrich&label=Profile%20views&color=0e75b6&style=flat" alt="bchelfrich" /> </p>
 
