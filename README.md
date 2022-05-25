@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **CompTIA Security+**
 
-- 📝 I regularly write articles on [https://bitbybitblogs.com/](https://bitbybitblogs.com/)
+- 📝 I regularly write articles and post project progress on [https://bitbybitblogs.com/](https://bitbybitblogs.com/)
 
 - 📫 How to reach me **bran.helfrich@gmail.com**
 
