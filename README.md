@@ -2,7 +2,7 @@
 <h3 align="left">Cybersecurity & Computer Networking Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b088305c3044e555af03d72e0ebb087600f4b539&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bchelfrich&label=Profile%20views&color=0e75b6&style=flat" alt="bchelfrich" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bchelfrich&label=Profile%20views&color=0e75b6&style=flat" alt="bchelfrich" /> </p>
 
 - 🌱 I’m currently learning **CompTIA Security+**
 
