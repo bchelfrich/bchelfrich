@@ -10,6 +10,8 @@
 
 - 📝 I regularly write articles and post project progress on [https://bitbybitblogs.com/](https://bitbybitblogs.com/)
 
+- 💻 Check out the progress on my first home lab here [First Cybersecurity Home Lab Project](https://bitbybitblogs.com/index.php/projects/homelab/)
+
 - 📫 You can reach me at **bran.helfrich@gmail.com**
 
 - ⚡ Fun fact:  **I am always looking to learn something new**
