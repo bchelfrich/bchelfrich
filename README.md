@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **CompTIA Security+**
 
-- 📝 I regularly write articles and post project progress on [https://bitbybitblogs.com/](https://bitbybitblogs.com/)
+- 📝 I regularly write articles and post project progress/ideas on [https://bitbybitblogs.com/](https://bitbybitblogs.com/)
 
 - 💻 Check out the progress on my first home lab here [First Cybersecurity Home Lab Project](https://bitbybitblogs.com/index.php/projects/homelab/)
 
