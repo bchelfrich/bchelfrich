@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchelfrich&label=Profile%20views&color=0e75b6&style=flat" alt="bchelfrich" /> </p>
 
-- 📝 I'm currently working on [Python Adventure Typing Game](https://github.com/bchelfrich/adventure-game)
-
 - 🌱 I’m currently learning **CompTIA Security+**
 
 - 📝 I regularly write articles and post project progress/ideas on [https://bitbybitblogs.com/](https://bitbybitblogs.com/)
