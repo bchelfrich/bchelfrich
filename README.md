@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchelfrich&label=Profile%20views&color=0e75b6&style=flat" alt="bchelfrich" /> </p>
 
-- 🌱 I’m currently learning **CompTIA Security+**
+- 🌱 I’m currently studying for **CompTIA Security+**
+
+- ☁  I'm also interested in cloud computing!
 
 - 📝 I regularly write articles and post project progress/ideas on [https://bitbybitblogs.com/](https://bitbybitblogs.com/)
 
@@ -12,7 +14,7 @@
 
 - 📫 You can reach me at **bran.helfrich@gmail.com**
 
-- ⚡ Fun fact:  **I am always looking to learn something new**
+- ⚡ **I am always looking to learn something new**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
