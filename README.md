@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchelfrich&label=Profile%20views&color=0e75b6&style=flat" alt="bchelfrich" /> </p>
 
-- 🌱 I’m currently studying for **CompTIA Security+**
+- 🌱 I’m currently studying for **AWS Certified Cloud Practitioner**
 
 - ☁  I'm also interested in cloud computing!
 
