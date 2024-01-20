@@ -8,7 +8,7 @@
 
 - ☁  I'm also interested in cloud computing!
 
-- 🎓 Bachelor's of Science in Cybersecurity | Computer Science minor
+- 🎓 Bachelor's of Science in Cybersecurity
 
 - 💻 Check out the progress on my first home lab here [Building a Cybersecurity Home Lab](https://www.youtube.com/watch?v=6aE3Gyt8i_k&t=2s)
 
