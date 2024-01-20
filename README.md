@@ -8,7 +8,7 @@
 
 - ☁  I'm also interested in cloud computing!
 
-- 📝 I write articles and post project progress/ideas on [https://bitbybitblogs.com/](https://bitbybitblogs.com/)
+- 🎓 Bachelor's of Science in Cybersecurity | Computer Science minor
 
 - 💻 Check out the progress on my first home lab here [Building a Cybersecurity Home Lab](https://www.youtube.com/watch?v=6aE3Gyt8i_k&t=2s)
 
